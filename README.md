@@ -1,2 +1,4 @@
 # hello-world
-Hello world repository
+
+Hi all. A newbie here. But not for so long, I suppose.
+Coding is exciting! :]
